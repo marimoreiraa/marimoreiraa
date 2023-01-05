@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/MarianaDuartee">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marianaduartee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaduartee&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marimoreiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimoreiraa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h2 align="center">Languages and Tools</h2>
@@ -55,6 +55,6 @@
 
 ##
 
-![Snake animation](https://github.com/marianaduartee/marianaduartee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marimoreiraa/marimoreiraa/blob/output/github-contribution-grid-snake.svg)
 
 
