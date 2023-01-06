@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=160&section=header&text=Mariana%20Moreira%20🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
-  <a href="https://github.com/MarianaDuartee">
+  <a href="https://github.com/marimoreiraa">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marimoreiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimoreiraa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
