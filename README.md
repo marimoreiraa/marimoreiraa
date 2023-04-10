@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=160&section=header&text=Mariana%20Moreira%20🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Cloud+Analyst+|+SRE)](https://git.io/typing-svg)
+**********
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff79c6&center=true&vCenter=true&width=1000&lines=Graduanda+de+Sistemas+em+Informação)](https://git.io/typing-svg)
+
+
 <div align="center">
   <a href="https://github.com/marimoreiraa">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marimoreiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
