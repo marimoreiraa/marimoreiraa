@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Cloud+Analyst+|+SRE)](https://git.io/typing-svg)
 **********
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff79c6&center=true&vCenter=true&width=1000&lines=Graduanda+de+Sistemas+em+Informação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=ff79c6&center=true&vCenter=true&width=1000&lines=Graduanda+em+Sistemas+de+Informação)](https://git.io/typing-svg)
 
 
 <div align="center">
