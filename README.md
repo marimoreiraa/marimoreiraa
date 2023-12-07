@@ -68,7 +68,4 @@
 <a href="https://www.linkedin.com/in/mariana-duarte-moreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2b58de?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-##
-
-![Snake animation](https://github.com/marimoreiraa/marimoreiraa/blob/output/github-contribution-grid-snake2.svg)
 
