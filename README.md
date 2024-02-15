@@ -23,21 +23,28 @@
   <h3 align="center">Languages</h3>
   <p align="center">
   <img align="center" alt="Mari-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Mari-SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Mari-Python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Mari-C++" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Mari-HTML" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Mari-CSS" height="40" width="40"  rc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   </p>
   
   <h3 align="center">Cloud Computing</h3>
   <p align="center">
   <img align="center" alt="Mari-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-   <img align="center" alt="Mari-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Mari-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Mari-Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg">
+  <img align="center" alt="Mari-Railway" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
   </p>
   
   <h3 align="center">DataBases</h3>
   <p align="center">
- <img align="center" alt="Mari-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Mari-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Mari-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Mari-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+    <img align="center" alt="Mari-Cassandra" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg">
+    
   </p>
   
   <h3 align="center">DevOps</h3>
@@ -45,7 +52,10 @@
     <img align="center" alt="Mari-Terraform" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="Mari-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Mari-DOCKER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">    <img align="center" alt="Mari-Gitlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
-  <img align="center" alt="Mari-K8S" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">         
+  <img align="center" alt="Mari-K8S" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">    
+    <img align="center" alt="Mari-Helm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg">  
+    <img align="center" alt="Mari-Grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">  
+    <img align="center" alt="Mari-Prometheus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg">  
   </p>
   
  <h3 align="center">Operacional System</h3>
@@ -59,6 +69,8 @@
     <img align="center" alt="Mari-Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
   <img align="center" alt="Mari-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
    <img align="center" alt="Mari-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+   <img align="center" alt="Mari-Notion" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+  </p>
 
 
 
@@ -66,6 +78,7 @@
 <p align="center">
 <a href = "mailto:marianaduarte7498@gmail.com"><img src="https://img.shields.io/badge/Gmail-2b58de?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
 <a href="https://www.linkedin.com/in/mariana-duarte-moreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2b58de?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://marimoreiraa.github.io/"><img src="https://img.shields.io/badge/website-2b58de?style=for-the-badge&logo=About.me&logoColor=white" target=" _blank"></a>
 </p>
 
 ##
